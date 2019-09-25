@@ -10,7 +10,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Administrator\Desktop\source\low\Digestive_Small_Intestines_Dif.jpg
 
 newmtl Material.002
 Ns 96.078431
@@ -21,18 +20,16 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Administrator\Desktop\source\low\Digestive_Colon_Dif.jpg
 
-newmtl Material.003
+newmtl Material.005
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.091785 0.080349
-Ks 0.500000 0.500000 0.500000
+Kd 0.662115 0.670588 0.408493
+Ks 0.376471 0.376471 0.376471
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
-d 1.000000
+d 0.500000
 illum 2
-map_Kd C:\Users\Administrator\Desktop\source\low\Digestive_Tongue_Dif.jpg
 
 newmtl empedu
 Ns 96.078431
@@ -43,7 +40,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Administrator\Desktop\source\low\Digestive_Gallbladder_Dif.jpg
 
 newmtl hati
 Ns 96.078431
@@ -54,7 +50,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Administrator\Desktop\source\low\Digestive_Liver_Dif.jpg
 
 newmtl kerongkongan_lambung
 Ns 96.078431
@@ -65,7 +60,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Administrator\Desktop\source\low\Digestive_Stomach_Dif.jpg
 
 newmtl limpa
 Ns 96.078431
@@ -86,7 +80,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Administrator\Desktop\source\low\Digestive_Bileduct_Dif.jpg
 
 newmtl sekat_hati
 Ns 96.078431
@@ -97,4 +90,3 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Administrator\Desktop\source\low\Digestive_Falciform_Ligament_Dif.jpg
